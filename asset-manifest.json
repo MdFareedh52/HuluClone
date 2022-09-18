@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/HuluClone/static/css/main.acb6d37c.css",
+    "main.js": "/HuluClone/static/js/main.89f39b06.js",
+    "index.html": "/HuluClone/index.html",
+    "main.acb6d37c.css.map": "/HuluClone/static/css/main.acb6d37c.css.map",
+    "main.89f39b06.js.map": "/HuluClone/static/js/main.89f39b06.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.acb6d37c.css",
+    "static/js/main.89f39b06.js"
+  ]
+}
